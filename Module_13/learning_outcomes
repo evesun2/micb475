@@ -1,0 +1,6 @@
+By the end of this module, if all practice activities and tutorials are completed, a student will be able to:
+
+Create phyloseq objects
+Filter taxa and samples from phyloseq objects
+Rarefy ASV tables in a phyloseq object
+Re-create taxa summary plots, alpha diversity boxplots, and beta diversity PCoA plots with phyloseq
