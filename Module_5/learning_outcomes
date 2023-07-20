@@ -1,0 +1,5 @@
+By the end of this module, if all practice activities and tutorials are completed, a student will be able to:
+
+Denoise your data by trimming your reads and removing low quality reads using DADA2 or Deblur
+Cluster unique reads in your data called Amplicon Sequence Variants (ASVs)
+Distinguish between ASVs and OTUs
