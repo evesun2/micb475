@@ -1,0 +1,5 @@
+By the end of this module, if all practice activities and tutorials are completed, a student will be able to:
+
+Understand the basic theory behind the grammar of visualization used by ggplot (plot, aesthetics, geometric objects)
+Use basic ggplot geometric objects (point, line, boxplot, histogram, smooth)
+Adjust aesthetic attributes of geometric objects in ggplot (color, shape, line type) and create multi-panel figures with ‘facet’
