@@ -25,7 +25,15 @@ The benefits of this delivery mode for a data science course of this nature incl
    * [Module 6: Taxonomic analysis and data filtering](#module-6)
    * [Module 7: Diversity metrics](#module-7)
    * [Module 8: Getting started with Project 2](#module-8)
-   * [Module 9]
+   * [Module 9: Exporting files from QIIME2](#module-9)
+   * [Module 10: Introduction to R](#module-10)
+   * [Module 11: Loading packages and using tidyverse](#module-11)
+   * [Module 12: Visualizing using ggplot2](#module-12)
+   * [Module 13: Phyloseq and microbial dataset analysis](#module-13)
+   * [Module 14: Statistics with one independent and dependent variable](#module-14)
+   * [Module 15: Statistics with multiple variables](#module-15)
+   * [Module 16: Identifying interesting ASVs](#module-16)
+   * [Additional modules](#additional-modules)
 
 ## Module 1
 ### Navigating your directory using your terminal
@@ -117,3 +125,111 @@ By the end of this module, if all practice activities and tutorials are complete
 ## Module 8
 ### Getting started with project 2
 The synchronous components of the course begin during this week where student teams of 3-4 meet weekly with the teaching team to start to develop their research proposals and ultimately carry out their capstone research projects for the remainder of the course. Students will present their findings at the end of the term as an oral presentation and written manuscript to be published in the [Undergradute Journal of Experimental Microbilogy and Immonology](https://jemi.microbiology.ubc.ca/).
+
+## Module 9
+### Exporting files from QIIME2
+By the end of this module, if all practice activities and tutorials are completed, a student will be able to:
+1. Export QIIME2 files (.qza) into human-readable formats (eg. .txt, .tsv, .csv)
+2. Use bash to view text files
+3. Download R and RStudio
+
+Students continue to use the moving pictures tutorial dataset in the R modules (module 10 - 16)
+<img src="images/pic_15.png" width="500"/>
+
+## Module 10
+### Introduction to R
+By the end of this module, if all practice activities and tutorials are completed, a student will be able to:
+1. Identify the different components of RStudio
+2. Perform basic operations using variables and objects
+3. Understand differences between variable/object types and data structures in R
+4. Use functions in R
+5. Load data in R and inspect that it is loaded properly
+
+Starting in this module as students learn R, they are provided with R markdown scripts to follow along. Markdown scripts can be found in the repective folders within this repository. Modules 10-12 cover basic R theory before starting microbiome analyses using phyloseq in Module 13. 
+
+<img src="images/pic_16.png" width="500"/><img src="images/pic_17.png" width="500"/>
+
+## Module 11
+### Loading packages and using tidyverse
+By the end of this module, if all practice activities and tutorials are completed, a student will be able to:
+1. Identify the different components of RStudio
+2. Perform basic operations using variables and objects
+3. Understand differences between variable/object types and data structures in R
+4. Use functions in R
+5. Load data in R and inspect that it is loaded properly
+
+Starting in this module as students learn R, they are provided with R markdown scripts to follow along. Markdown scripts can be found in the repective folders within this repository.
+
+<img src="images/pic_18.png" width="500"/><img src="images/pic_19.png" width="500"/>
+
+## Module 12
+### Visualizing with ggplot2
+By the end of this module, if all practice activities and tutorials are completed, a student will be able to:
+1. Understand the basic theory behind the grammar of visualization used by ggplot (plot, aesthetics, geometric objects)
+2. Use basic ggplot geometric objects (point, line, boxplot, histogram, smooth)
+3. Adjust aesthetic attributes of geometric objects in ggplot (color, shape, line type) and create multi-panel figures with ‘facet’
+
+<img src="images/pic_20.png" width="500"/><img src="images/pic_21.png" width="500"/>
+
+## Module 13
+### Phyloseq and microbial dataset analysis
+By the end of this module, if all practice activities and tutorials are completed, a student will be able to:
+1. Create phyloseq objects
+2. Filter taxa and samples from phyloseq objects
+3. Rarefy ASV tables in a phyloseq object
+4. Re-create taxa summary plots, alpha diversity boxplots, and beta diversity PCoA plots with phyloseq
+
+<img src="images/pic_22.png" width="500"/><img src="images/pic_23.png" width="500"/>
+
+## Module 14
+### Statistics with one independent and dependent variable
+By the end of this module, if all practice activities and tutorials are completed, a student will be able to:
+1. Define key terms in statistics that will help you differentiate between certain statistical test
+2. Differentiate between a parametric and non-parametric test, and identify the situation in which you would use one or the other
+3. Use a t-test and Wilcoxon rank sum test to compare two means
+4. Use ANOVA and Kruskall-wallis tests to compare multiple means
+5. Use Pearson correlation and Kendall correlation tests to correlate two continuous variables
+
+Module 14-15 will cover basic statistical analysis including single variable comparisons (Module 14) and multiple variable comparisons (Module 15). This includes both parametric and non-parametric tests. 
+
+<img src="images/pic_24.png" width="500"/><img src="images/pic_25.png" width="500"/>
+
+## Module 15
+### Statistics with multiple variables
+By the end of this module, if all practice activities and tutorials are completed, a student will be able to:
+1. Use two-way ANOVAs and linear models to test for effects across multiple predictors
+2. Use a MANOVA or PERMANOVA in R to test for effects in multiple response variables
+3. Interpret model outputs and explain what single and interaction effects mean in two-way models
+
+Module 14-15 will cover basic statistical analysis including single variable comparisons (Module 14) and multiple variable comparisons (Module 15). This includes both parametric and non-parametric tests. 
+
+<img src="images/pic_26.png" width="500"/><img src="images/pic_27.png" width="500"/>
+
+## Module 16
+### Identifying interesting ASVs
+By the end of this module, if all practice activities and tutorials are completed, a student will be able to:
+1. Differentiate between abundance and prevalence
+2. Identify “core microbiome” members (by specifying and justifying abundance and prevalence thresholds)
+   * Create Venn Diagrams to visualize member overlap
+3. Explain the theory behind Indicator Species Analysis and conduct Indicator Species Analysis in R
+4. Explain the theory behind DESeq and conduct DESeq analysis in R
+   * Interpret Volcano plots and expression bar graphs
+
+Below are some of the outputs that students generated using three different analyses demonstrated in this module:
+<img src="images/pic_28.png" width="500"/><img src="images/pic_29.png" width="500"/><img src="images/pic_30.png" width="500"/>
+
+## Additional Modules
+### Module 17: Disseminating your research
+This module covers how to prepare an effective oral presentation and written manuscript that follows industry standards and the course expectations. This is the last of the mandatory modules. Students usually go through this module closer to the end of the term when their final projects are due. 
+
+<img src="images/pic_31.png" width="500"/>
+
+### Module 18: Using Git and Github to document your work
+This is an optional module that introduces students to the following:
+1. How do we use Github
+2. How to format your readme file
+3. Using git on command line
+4. Git integrated to RStudio
+5. Using GitHub desktop
+
+<img src="images/pic_32.png" width="500"/>
