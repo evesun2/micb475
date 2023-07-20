@@ -8,6 +8,14 @@ Modules are comprised of video tutorials, markdown scripts, and coding exercises
 
 <img src="images/pic_1.png" width="300"/><img src="images/pic_2.png" width="500"/>
 
+## Rationale for hybrid model
+The benefits of this delivery mode for a data science course of this nature includes:
+  * it serves a wider range of prior expertise in a more optimal manner than the course when it was completely online or completely in person
+  * it is modelled after how other units like computer science teach some of their data science courses or programs
+  * this model complements a mix of hands-on practice and theory in a less constrained manner compared to synchronous modes of delivery
+
+[Feedback collected from students](#feedback) during the first iteration of this course speak to its effectiveness in teaching beginners data science but still challenging students who enter the course with a stronger data science background. 
+
 ## Table of Contents
    * [Module 1: Navigating your directory using your terminal](#module-1)
    * [Module 2: Logging in to the server](#module-2)
