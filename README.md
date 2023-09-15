@@ -238,16 +238,18 @@ This is an optional module that introduces students to the following:
 ## Feedback
 MICB 475 was delivered for the first time in Jan 2023 as a hybrid course. This mid-term feedback survey was sent to MICB 475 students in Feb of 2023. 34 students out of 74 (46% response rate) participated in the survey. Website analytics were collected from Canvas as a means of measuring page access from all 74 students at the end of the term (April 2023). The feedback is summarized here.
 
-Students were asked for their preference in course format for the scaffolding phase (left) and what prior experience they had with data science (right). Zero students reported having any experience with Unix alone. n=34.
-<img src="images/data_1.png" width="500"/>
+Students were asked for their preference in course format for the scaffolding phase (left) and what prior experience they had with data science (right). Zero students reported having any experience with Unix alone. n=34. Students were also asked whether they agree or disagree that each of these course components were effective in promoting learning in the course:
 
-Students were asked whether they agree or disagree that each of these course components were effective in promoting learning in the course:
-<img src="images/data_2.png" width="500"/>
+<img src="images/data_1.png" width="300"/><img src="images/data_2.png" width="600"/>
+
 
 Students were asked if an appropriate amount of time was spent going over each module. Modules are clustered based by week:
-<img src="images/data_3.png" width="500"/>
+
+<img src="images/data_3.png" width="300"/>
+
 
 Summary of page views data collected from Canvas analytics that summarizes the average page views per module. Color coding shows the percentage of students in the course who accessed those pages:
+
 <img src="images/data_4.png" width="500"/>
 
 As per the data, the majority of students coming in the course had R experience but not Unix. This reflects the higher amount of page views and access in the earlier modules (Modules 1-8) compared to the R component (Modules 9-16). Students also reported wanting to spend more time on the Unix modules compared to the R modules.
