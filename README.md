@@ -2,7 +2,7 @@
 This repository stores all the online module components of UBC's MICB 475: Data science research in microbiology course
 
 ## Summary
-MICB 475 is a data science course-based undergraduate research experience (CURE) developed at the University of British Columbia's Department of Microbiology and Immunology. The courses focuses on amplicon sequencing data as a gateway into data science research. The course consists of 4 phases: scaffolding, planning, experimentation, and dissemination. This repository focuses on the hybrid scaffolding phase of the course where students learn command line and QIIME2 (Modules 1-8) and R/RStudion (Modules 9-18) using the Moving Pictures Tutorial dataset (https://docs.qiime2.org/2022.2/tutorials/moving-pictures/).
+MICB 475 is a data science course-based undergraduate research experience (CURE) developed at the University of British Columbia's Department of Microbiology and Immunology. The courses focuses on amplicon sequencing data as a gateway into data science research. The course consists of 4 phases: scaffolding, planning, experimentation, and dissemination. This repository focuses on the hybrid scaffolding phase of the course where students learn command line and QIIME2 (Modules 1-8) and R/RStudio (Modules 9-18) using the Moving Pictures Tutorial dataset (https://docs.qiime2.org/2022.2/tutorials/moving-pictures/).
 
 Modules are comprised of video tutorials, markdown scripts, and coding exercises. 
 
@@ -34,6 +34,7 @@ The benefits of this delivery mode for a data science course of this nature incl
    * [Module 15: Statistics with multiple variables](#module-15)
    * [Module 16: Identifying interesting ASVs](#module-16)
    * [Additional modules](#additional-modules)
+   * [Course Feedback](#feedback)
 
 ## Module 1
 ### Navigating your directory using your terminal
@@ -233,3 +234,25 @@ This is an optional module that introduces students to the following:
 5. Using GitHub desktop
 
 <img src="images/pic_32.png" width="500"/>
+
+## Feedback
+MICB 475 was delivered for the first time in Jan 2023 as a hybrid course. This mid-term feedback survey was sent to MICB 475 students in Feb of 2023. 34 students out of 74 (46% response rate) participated in the survey. Website analytics were collected from Canvas as a means of measuring page access from all 74 students at the end of the term (April 2023). The feedback is summarized here.
+
+Students were asked for their preference in course format for the scaffolding phase (left) and what prior experience they had with data science (right). Zero students reported having any experience with Unix alone. n=34.
+<img src="images/data_1.png" width="500"/>
+
+Students were asked whether they agree or disagree that each of these course components were effective in promoting learning in the course:
+<img src="images/data_2.png" width="500"/>
+
+Students were asked if an appropriate amount of time was spent going over each module. Modules are clustered based by week:
+<img src="images/data_3.png" width="500"/>
+
+Summary of page views data collected from Canvas analytics that summarizes the average page views per module. Color coding shows the percentage of students in the course who accessed those pages:
+<img src="images/data_4.png" width="500"/>
+
+As per the data, the majority of students coming in the course had R experience but not Unix. This reflects the higher amount of page views and access in the earlier modules (Modules 1-8) compared to the R component (Modules 9-16). Students also reported wanting to spend more time on the Unix modules compared to the R modules.
+
+
+
+
+
